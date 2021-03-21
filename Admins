@@ -1,5 +1,4 @@
-ID = {
-   ["200547759"] = true,
-   ["2351144328"] = true,
+userids = {
+[2351144328] = true, -- woz
 }
-return ID
+return userids
