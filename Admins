@@ -1,6 +1,4 @@
-local admins = {
-  "200547759",
-  "2351144328",
-  "2025172918",
-  "44694442"
+local WhiteList = {
+   ["Mas2n"] = true,
+   ["suslevel9999"] = true,
 }
