@@ -1,4 +1,5 @@
-local WhiteList = {
-   ["Mas2n"] = true,
-   ["suslevel9999"] = true,
+ID = {
+   ["200547759"] = true,
+   ["2351144328"] = true,
 }
+return ID
