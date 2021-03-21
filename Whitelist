@@ -1,5 +1,6 @@
 userids = {
 [2351144328] = true, -- Woz
 [200547759] = true, -- Mason
+[2351138441] = true, -- woz alt
 }
 return userids
