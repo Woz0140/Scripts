@@ -4,5 +4,6 @@ userids = {
 [2351138441] = true, -- woz alt
 [1826873689] = true, -- dyswrld paid 5000 robux
 [296946548] = true, -- rdestinye paid 15 usd pp
+[2283252121] = true, -- 1 day whitelist
 }
 return userids
