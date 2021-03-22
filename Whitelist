@@ -3,5 +3,6 @@ userids = {
 [200547759] = true, -- Mason
 [2351138441] = true, -- woz alt
 [1826873689] = true, -- dyswrld paid 5000 robux
+[296946548] = true, -- rdestinye paid 15 usd pp
 }
 return userids
