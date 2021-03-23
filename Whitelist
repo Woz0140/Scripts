@@ -8,5 +8,6 @@ userids = {
 [296946548] = true, -- rdestinye paid 15 usd pp
 [177473954] = true, -- 9vag paid 15 us pp
 [2283252121] = true, -- 1 day whitelist
+[1910682741] = true, -- giveawaywinner
 }
 return userids
