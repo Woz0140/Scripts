@@ -7,7 +7,8 @@ userids = {
 [1826873689] = true, -- dyswrld paid 5000 robux
 [296946548] = true, -- rdestinye paid 15 usd pp
 [177473954] = true, -- 9vag paid 15 us pp
-[2283252121] = true, -- 1 day whitelist
 [1910682741] = true, -- giveawaywinner
+[2200137006] = true, -- giveawaywinner
+[1654108630] = true, -- giveawaywinner
 }
 return userids
