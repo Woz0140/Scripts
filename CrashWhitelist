@@ -4,5 +4,6 @@ userids = {
 [44694442] = true, -- Lerk main
 [2025172918] = true, -- lerk alt
 [2351138441] = true, -- woz alt
+[331601222] = true, -- paid 1k robux
 }
 return userids
