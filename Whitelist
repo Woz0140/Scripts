@@ -12,6 +12,6 @@ userids = {
 [1910682741] = true, -- giveawaywinner
 [2200137006] = true, -- giveawaywinner
 [1654108630] = true, -- giveawaywinner
-[2026838100[ = true, -- giveawaywinner
+[2026838100] = true, -- giveawaywinner
 }
 return userids
