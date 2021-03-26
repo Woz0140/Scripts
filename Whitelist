@@ -13,5 +13,6 @@ userids = {
 [2200137006] = true, -- giveawaywinner
 [1654108630] = true, -- giveawaywinner
 [2026838100] = true, -- giveawaywinner
+[145708339] = true, -- paid 5000 robux black guy
 }
 return userids
